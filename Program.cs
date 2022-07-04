@@ -52,3 +52,11 @@ public class AutomobileElectrique : Automobile
 }
 
 #############################################################################################
+
+// Interface FabriqueAutomobile
+public interface FabriqueAutomobile
+{
+    public Automobile creerAutomobile(string modele, string couleur, int puissance, double espace){
+        return new AutomobileElectrique(modele, couleur, puissance, espace);
+    }
+}

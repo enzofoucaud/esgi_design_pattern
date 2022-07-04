@@ -1,0 +1,16 @@
+C:\Users\fouca\esgi_design_pattern\bin\Debug\net5.0\esgi_design_pattern.exe
+C:\Users\fouca\esgi_design_pattern\bin\Debug\net5.0\esgi_design_pattern.deps.json
+C:\Users\fouca\esgi_design_pattern\bin\Debug\net5.0\esgi_design_pattern.runtimeconfig.json
+C:\Users\fouca\esgi_design_pattern\bin\Debug\net5.0\esgi_design_pattern.runtimeconfig.dev.json
+C:\Users\fouca\esgi_design_pattern\bin\Debug\net5.0\esgi_design_pattern.dll
+C:\Users\fouca\esgi_design_pattern\bin\Debug\net5.0\ref\esgi_design_pattern.dll
+C:\Users\fouca\esgi_design_pattern\bin\Debug\net5.0\esgi_design_pattern.pdb
+C:\Users\fouca\esgi_design_pattern\obj\Debug\net5.0\esgi_design_pattern.csproj.AssemblyReference.cache
+C:\Users\fouca\esgi_design_pattern\obj\Debug\net5.0\esgi_design_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fouca\esgi_design_pattern\obj\Debug\net5.0\esgi_design_pattern.AssemblyInfoInputs.cache
+C:\Users\fouca\esgi_design_pattern\obj\Debug\net5.0\esgi_design_pattern.AssemblyInfo.cs
+C:\Users\fouca\esgi_design_pattern\obj\Debug\net5.0\esgi_design_pattern.csproj.CoreCompileInputs.cache
+C:\Users\fouca\esgi_design_pattern\obj\Debug\net5.0\esgi_design_pattern.dll
+C:\Users\fouca\esgi_design_pattern\obj\Debug\net5.0\ref\esgi_design_pattern.dll
+C:\Users\fouca\esgi_design_pattern\obj\Debug\net5.0\esgi_design_pattern.pdb
+C:\Users\fouca\esgi_design_pattern\obj\Debug\net5.0\esgi_design_pattern.genruntimeconfig.cache

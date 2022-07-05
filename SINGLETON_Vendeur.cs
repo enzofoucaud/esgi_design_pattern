@@ -4,7 +4,6 @@ using System.Collections.Generic;
 public class Vendeur
 {
   private static Vendeur _instance = null;
-  private static object _lock = new object();
   private List<Document> documents = new List<Document>();
   private Vendeur()
   {

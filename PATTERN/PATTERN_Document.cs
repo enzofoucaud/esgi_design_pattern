@@ -1,8 +1,8 @@
-using System;
+// using System;
 
-public interface Document
-{
-  string contenu { set; }
-  void dessine();
-  void imprime();
-}
+// public interface Document
+// {
+//   string contenu { set; }
+//   void dessine();
+//   void imprime();
+// }

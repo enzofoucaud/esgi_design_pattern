@@ -7,6 +7,7 @@ namespace esgi_design_pattern
         private static Factory _instance;
         public string Name { get; set; }
         private Factory(){}
+        // Permit to get the instance of the factory only once
         public static Factory GetInstance()
         {
             if (_instance == null)

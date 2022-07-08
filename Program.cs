@@ -25,6 +25,20 @@ namespace esgi_design_pattern
             factoryFord.Display();
             // Create a new car using the factory and display all properties of the car
             factoryFord.BuildCar(companyName,brandName).DisplayAll();
+            /* Chain of responsability */
+            Console.WriteLine("--- Chain of responsability ---");
+            // Create handlers
+            var seller = new SellerHandler();
+            var mechanic = new MechanicHandler();
+            var assistance = new TechnicalAssistanceHandler();
+            // Set the next handler in the chain
+            seller.SetNext(mechanic).SetNext(assistance);
+            Console.WriteLine("Chain of responsability: Seller -> Mechanic -> Technical assistance");
+            Client.ClientCode(seller);
+            Console.WriteLine();
+
+            Console.WriteLine("Chain of responsability: Mechanic -> Technical assistance");
+            Client.ClientCode(mechanic);
         }
     }
 }

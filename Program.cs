@@ -36,7 +36,6 @@ namespace esgi_design_pattern
             Console.WriteLine("Chain of responsability: Seller -> Mechanic -> Technical assistance");
             Client.ClientCode(seller);
             Console.WriteLine();
-
             Console.WriteLine("Chain of responsability: Mechanic -> Technical assistance");
             Client.ClientCode(mechanic);
         }
